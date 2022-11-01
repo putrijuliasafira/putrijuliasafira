@@ -1,4 +1,4 @@
-# Hi there, I'm <a href='https://github.com/rizqillah-pnl'>RIZQILLAH</a> 👋
+# Hi there, I'm <a href='https://github.com/putrijuliasafira'>PUTRI</a> 👋
 
 
 <!-- **rizqillah-pnl/rizqillah-pnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -73,7 +73,7 @@
 
 
 ## Talk To Me
-[![GitHub](https://img.shields.io/static/v1?style=badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/rizqillah-pnl)
-[![GitLab](https://img.shields.io/static/v1?style=badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)](https://gitlab.com/rizqillah-pnl)
-[![Instagram](https://img.shields.io/static/v1?style=badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=)](https://www.instagram.com/rizqillah03)
-[![Facebook](https://img.shields.io/static/v1?style=badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=)](https://www.facebook.com/kazuryo.group)
+[![GitHub](https://img.shields.io/static/v1?style=badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/putrijuliasafira)
+<!-- [![GitLab](https://img.shields.io/static/v1?style=badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)](https://gitlab.com/rizqillah-pnl) -->
+[![Instagram](https://img.shields.io/static/v1?style=badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=)](https://www.instagram.com/putrijlias)
+<!-- [![Facebook](https://img.shields.io/static/v1?style=badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=)](https://www.facebook.com/kazuryo.group) -->
