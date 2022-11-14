@@ -1,10 +1,5 @@
 # Hi there, I'm <a href='https://github.com/putrijuliasafira'>PUTRI</a> 👋
 
-
-<!-- **rizqillah-pnl/rizqillah-pnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- Here are some ideas to get you started: -->
-
 🔭 I’m currently studying at Lhokseumawe State Polytechnic.<br>
 😄 Enjoy with my GitHub Account
 <!-- - 🌱 I’m currently learning ...
@@ -17,9 +12,7 @@
 
 ## Language and Tools
 ![Python](https://img.shields.io/static/v1?style=badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-![C](https://img.shields.io/static/v1?style=badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
 ![C++](https://img.shields.io/static/v1?style=badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
-![Chart.js](https://img.shields.io/static/v1?style=badge&message=Chart.js&color=FF6384&logo=Chart.js&logoColor=FFFFFF&label=)
 ![Dart](https://img.shields.io/static/v1?style=badge&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF&label=)
 ![Delphi](https://img.shields.io/static/v1?style=badge&message=Delphi&color=EE1F35&logo=Delphi&logoColor=FFFFFF&label=)
 ![Flutter](https://img.shields.io/static/v1?style=badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
